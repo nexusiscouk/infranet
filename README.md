@@ -1,2 +1,0 @@
-# infranet
-AWS Website
